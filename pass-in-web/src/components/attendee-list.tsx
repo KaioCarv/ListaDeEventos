@@ -130,7 +130,7 @@ setCurrentPage(page + 1)
         </div>
       </div>
       <Table>
-        <thead>aa
+        <thead>
           <tr className="border-b border-white/10">
             <TableHeader
               style={{ width: 48 }}
